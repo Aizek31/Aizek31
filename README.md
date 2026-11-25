@@ -239,6 +239,26 @@ deployment in Linux environments.
   <img src="https://komarev.com/ghpvc/?username=Aizek31&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
+## Contact Me
+
+<p align="center">
+  Feel free to reach out for professional opportunities,
+  collaboration, and technical discussions.
+</p>
+
+<p align="center">
+  <a href="https://t.me/Aizek31">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://github.com/Aizek31">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
 ---
+
+<p align="center">
+  <i>Building reliable software. Writing maintainable code. Continuously improving.</i>
+</p>
 
 
