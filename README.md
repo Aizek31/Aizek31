@@ -135,5 +135,85 @@ deployment in Linux environments.
 - TCP/IP
 - Linux Server Deployment
 
+
+## Professional Competencies
+
+### Backend Engineering
+
+- Backend application development using Python.
+- RESTful API design and implementation.
+- Web application development with Django, FastAPI, and Flask.
+- Request validation and data serialization.
+- API documentation using Swagger and OpenAPI.
+- CRUD operations and business logic implementation.
+
+### Software Architecture
+
+- Object-Oriented Programming (OOP).
+- SOLID principles and design patterns.
+- MVC and Clean Architecture.
+- Separation of concerns and modular application design.
+- Maintainable and reusable code development.
+
+### Database Engineering
+
+- Relational database design and SQL queries.
+- Working with PostgreSQL, MySQL, and SQLite.
+- Object-relational mapping with SQLAlchemy and Peewee.
+- Redis for caching and data storage.
+- Database integration with backend applications.
+
+### Asynchronous & Concurrent Programming
+
+- Asynchronous programming with Asyncio.
+- Coroutine-based development using async/await.
+- Multithreading and multiprocessing.
+- Concurrent execution of application tasks.
+- Python decorators and generators.
+
+### Application Security
+
+- Authentication and authorization mechanisms.
+- JWT-based authentication.
+- OAuth2 authorization.
+- Secure password hashing.
+- HTTP and HTTPS communication.
+
+### Software Testing & Code Quality
+
+- Automated unit testing with Pytest and unittest.
+- Mocking application dependencies.
+- Testing business logic and application components.
+- Application logging and error diagnostics.
+- Writing structured and maintainable code.
+
+### DevOps & Infrastructure
+
+- Application containerization with Docker.
+- Multi-container environments using Docker Compose.
+- Application deployment on Linux (Debian).
+- Nginx configuration.
+- Remote server management via SSH.
+- Bash scripting and CI/CD fundamentals.
+
+### Telegram Bot Development
+
+- Telegram bot development using Aiogram and Telebot.
+- Asynchronous bot development.
+- Integration with databases and external APIs.
+- Automation of application workflows.
+
+### Networking & Web Fundamentals
+
+- HTTP, HTTPS, and TCP/IP protocols.
+- Client-server architecture.
+- Web development fundamentals with HTML and CSS.
+
+### Version Control
+
+- Source code management with Git.
+- Branching, merging, and version control workflows.
+- Working with GitHub and GitLab repositories.
+
 ---
 
