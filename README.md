@@ -215,5 +215,30 @@ deployment in Linux environments.
 - Branching, merging, and version control workflows.
 - Working with GitHub and GitLab repositories.
 
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aizek31&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&bg_color=0D1117" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aizek31&layout=donut&theme=github_dark&hide_border=true&title_color=58A6FF&bg_color=0D1117&langs_count=8" height="180" alt="Top Languages"/>
+</p>
+
+### Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aizek31&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</p>
+
+### Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aizek31&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aizek31&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
 ---
+
 
